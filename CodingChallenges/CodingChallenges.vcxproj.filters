@@ -32,5 +32,11 @@
     <ClCompile Include="CodingChallenges.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GradingStudents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AppleAndOrange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
